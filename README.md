@@ -1,5 +1,24 @@
 # kickstart.nvim
 
+## Ryan's Neovim
+
+I'm keeping my neovim config updated in this repo to be able to more easily provision new devices
+and environments, between work and personal use machines.
+
+Some prerequistes and environment choices:
+- ripgrep
+- fd
+- zoxide
+- eza
+- fzf
+- gruvbox colorscheme
+- alacritty terminal
+- tmux for multiplexing
+- zsh shell
+- oh my zsh + powerline10k + gruvbox
+
+I should probably be version controlling my dotfiles and setup for the entire terminal... anyways
+
 ## Introduction
 
 A starting point for Neovim that is:
